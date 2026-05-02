@@ -1,8 +1,8 @@
 Cyber Threat Intelligence & Application Security Analysis
 
-"MITRE ATT&CK" (https://img.shields.io/badge/MITRE_ATT%26CK-Mapped-red)
-"OWASP" (https://img.shields.io/badge/OWASP_Top_10-Covered-green)
-"ISO/NIST" (https://img.shields.io/badge/ISO_27001%20%7C%20NIST-Aligned-blue)
+"MITRE ATT&CK" 
+"OWASP" 
+"ISO/NIST"
 
 Overview
 

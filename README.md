@@ -22,3 +22,6 @@ Demonstrates practical skills in:
 - Risk evaluation (Likelihood × Impact)
 - Mitigation strategies (SOC & GRC perspective)
 
+Author
+
+Nouman J Nizami
